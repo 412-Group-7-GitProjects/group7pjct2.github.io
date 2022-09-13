@@ -68,7 +68,7 @@ We are going to use Colons to align columns.
 | -------------- |:-------------:| ------------:|
 | Connor Plank   | 21.           | Ice Cream    |
 | Joshua Jackson | 23.           | Ice Cream    |
-| Olivia Leaver  | are neat      |    $1 |
+| Olivia Leaver  | 22            | Ice cream    | 
 | Nick Vasquez   | 21.           |   Brownies   |
 | Jacob Ramey    | 22.           | Cheesecake   |
 

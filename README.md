@@ -1,9 +1,8 @@
 # group7pjct2.github.io
 
-# H1
-## H2
-### H3
-#### H4
+# We are Group 7
+## Members: Joshua Jackson, Olivia Leaver, Jacob Ramey, Nicholas Vasquez
+#### Some of our text is being used to show off basic MarkDown styles
 ##### H5
 ###### H6
 
@@ -55,22 +54,19 @@ Some text to show that the reference links can follow later.
 ---
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+  <dt>DevOps</dt>
+  <dd>Unifies the workflow and organization. DevOps brings the teams together</dd>
 
 ---
 
-Colons can be used to align columns.
+We are going to use Colons to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Team Mebers   | Age           | Fav Dessert  |
+| ------------- |:-------------:| ------------:|
+| Connor Plank  | 21.           | Ice Cream |
+| Joshua Jackson| centered      |   $12 |
+| Olivia Leaver | are neat      |    $1 |
+| Nick Vasquez  | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 

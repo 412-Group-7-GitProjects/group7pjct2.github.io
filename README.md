@@ -61,10 +61,10 @@ Some text to show that the reference links can follow later.
 
 We are going to use Colons to align columns.
 
-| Team Mebers   | Age           | Fav Dessert  |
-| ------------- |:-------------:| ------------:|
-| Connor Plank  | 21.           | Ice Cream |
-| Joshua Jackson| centered      |   $12 |
+| Team Mebers   | Age           | Favorite Icecream  |
+| ------------- |:-------------:| ------------------:|
+| Connor Plank  | 21.           | Ice Cream          |
+| Joshua Jackson| 23.           | Mint choc chip     |
 | Olivia Leaver | are neat      |    $1 |
 | Nick Vasquez  | are neat      |    $1 |
 

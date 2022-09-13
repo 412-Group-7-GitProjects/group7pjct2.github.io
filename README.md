@@ -80,3 +80,4 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+[click here] (https://github.com/olivialeaver/olivialeaver.github.io/blob/main/aboutme.md) to learn about the number 1 house plant safe for cats! 

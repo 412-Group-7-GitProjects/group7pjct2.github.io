@@ -68,12 +68,8 @@ We are going to use Colons to align columns.
 | -------------- |:-------------:| ------------:|
 | Connor Plank   | 21.           | Ice Cream    |
 | Joshua Jackson | 23.           | Ice Cream    |
-<<<<<<< HEAD
-| Olivia Leaver  | are neat      |    $1        |
-=======
-| Olivia Leaver  | 22            | Ice cream    | 
->>>>>>> 0ee2a6de3fbc2a64b78b167306216cef055bf8bc
-| Nick Vasquez   | 21.           |   Brownies   |
+| Olivia Leaver  | 22.           | Ice Cream    |
+| Nick Vasquez   | 21.           | Brownies     |
 | Jacob Ramey    | 22.           | Cheesecake   |
 
 There must be at least 3 dashes separating each header cell.

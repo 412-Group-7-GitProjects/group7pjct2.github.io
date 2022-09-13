@@ -65,6 +65,7 @@ We are going to use Colons to align columns.
 
 =======
 | Team Members   | Age           | Fav Dessert  |
+
 | -------------- |:-------------:| ------------:|
 | Connor Plank   | 21.           | Ice Cream    |
 | Joshua Jackson | 23.           | Ice Cream    |

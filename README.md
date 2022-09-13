@@ -61,12 +61,16 @@ Some text to show that the reference links can follow later.
 
 We are going to use Colons to align columns.
 
-| Team Mebers   | Age           | Favorite Icecream  |
-| ------------- |:-------------:| ------------------:|
-| Connor Plank  | 21.           | Ice Cream          |
-| Joshua Jackson| 23.           | Mint choc chip     |
+
+
+=======
+| Team Mebers   | Age           | Fav Dessert  |
+| ------------- |:-------------:| ------------:|
+| Connor Plank  | 21.           | Ice Cream    |
+| Joshua Jackson| 23.           | Ice Cream    |
 | Olivia Leaver | are neat      |    $1 |
 | Nick Vasquez  | are neat      |    $1 |
+| Jacob Ramey   | 22.           | Cheesecake   |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 

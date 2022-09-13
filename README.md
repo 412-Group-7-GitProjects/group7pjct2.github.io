@@ -82,4 +82,4 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
   
-  [click here] (https://github.com/olivialeaver/olivialeaver.github.io/blob/main/aboutme.md) to learn about the number 1 house plant safe for cats! 
+  [click here] (https://olivialeaver.github.io/aboutme/) to learn about the number 1 house plant safe for cats! 

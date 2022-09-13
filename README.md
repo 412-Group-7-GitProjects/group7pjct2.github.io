@@ -66,7 +66,7 @@ We are going to use Colons to align columns.
 | Connor Plank  | 21.           | Ice Cream    |
 | Joshua Jackson| centered      |   $12 |
 | Olivia Leaver | are neat      |    $1 |
-| Nick Vasquez  | are neat      |    $1 |
+| Nick Vasquez  | 21.           |   Brownies   |
 | Jacob Ramey   | 22.           | Cheesecake   |
 
 There must be at least 3 dashes separating each header cell.

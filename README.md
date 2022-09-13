@@ -1,4 +1,4 @@
-<img width="500" src="assets/example.png"> 
+<img width="500" src="assets/Screen Shot 2022-09-13 at 3.29.59 PM.png"> 
 
 # Bio Webpage Template,
 Here we will create an informational page for Group 7
